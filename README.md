@@ -6,6 +6,9 @@ git clone https://github.com/letadz/weather-app.git
 go to visual studio then open the folder
 
 ### third step 
-open terminal then type npm start
+open terminal then type npm install
+
+#### fourth step
+npm start
 
 use master branch
